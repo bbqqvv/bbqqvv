@@ -28,17 +28,12 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/MicrosoftSQLServer
--282C34?logo=microsoftsqlserver
-&logoColor=#CC2927" alt="git logo" title="MicrosoftSQLServer" height="25" /></span>
+<span><img src="https://img.shields.io/badge/MicrosoftSQLServer-282C34?logo=microsoftsqlserver&logoColor=CC2927" alt="Microsoft SQL Server" title="Microsoft SQL Server" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/MySQL
--282C34?logo=mysql
-&logoColor=#CC2927" alt="git logo" title="MySQL" height="25" /></span>
+<span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=CC2927" alt="MySQL" title="MySQL" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/SQLite
--282C34?logo=sqlite
-&logoColor=#003B57" alt="sqlite logo" title="SQLite" height="25" /></span>
+<span><img src="https://img.shields.io/badge/SQLite-282C34?logo=sqlite&logoColor=003B57" alt="SQLite" title="SQLite" height="25" /></span>
+
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
