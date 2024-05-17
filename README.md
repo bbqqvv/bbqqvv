@@ -1,7 +1,7 @@
 <!-- vanbuidevTech -->
-<a href="#" target="_blank">
+//<a href="#" target="_blank">
   <img src="svg/vanbuidevTech.svg" width="1200" alt="vanbuidevTech-official" />
-</a>
+</a>//
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
