@@ -1,7 +1,12 @@
+
+<!--
+Đây là dòng giải thích và không hiện ra trên giao diện
 <!-- vanbuidevTech -->
 <a href="#" target="_blank">
   <img src="svg/vanbuidevTech.svgg" width="1200" alt="vanbuidevTech-official" />
 </a>
+
+-->
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
