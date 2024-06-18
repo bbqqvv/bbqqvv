@@ -18,9 +18,12 @@
 				}
         .quotes-eng {
           font-size: 18px;
+	color: greenl;
         }
         .quotes-vi {
           font-size: 18px;
+					color: greenl;
+
         }
         .vanbuidevTech-signature {
           font-size: 16px;
@@ -28,7 +31,7 @@
 			</style>
 
 			<div class="container">
-        <div class="quotes-eng">"Don't ask why I sleep so much, ask what I did while awake"</div>
+        <div class="quotes-eng">"When love begins, that is also when wisdom ends."</div>
         <div class="quotes-vi">"Khi tình yêu bắt đầu thì đó cũng là lúc trí tuệ kết thúc."</div>
         <div class="vanbuidevTech-signature">-vanbuidevTech Official-</div>
       </div>
