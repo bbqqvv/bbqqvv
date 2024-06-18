@@ -18,11 +18,11 @@
 				}
         .quotes-eng {
           font-size: 18px;
-	color: greenl;
+	color: green;
         }
         .quotes-vi {
           font-size: 18px;
-					color: greenl;
+	color: green;
 
         }
         .vanbuidevTech-signature {
