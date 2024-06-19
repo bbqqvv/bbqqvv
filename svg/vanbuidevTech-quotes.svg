@@ -18,11 +18,14 @@
 				}
         .quotes-eng {
           font-size: 18px;
-	color: blue;
+	color: while;
+					font-weight: Bold;
+
         }
         .quotes-vi {
           font-size: 18px;
-	color: blue;
+	color: while;
+	font-weight: Bold;
 
         }
         .vanbuidevTech-signature {
