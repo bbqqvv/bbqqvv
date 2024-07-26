@@ -21,6 +21,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Tailwind-282C34?logo=tailwind&logoColor=1572B6" alt="Tailwind logo" title="Tailwind" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=#777BB4" alt="WordPress logo" title="WordPress" height="25" /></span>
