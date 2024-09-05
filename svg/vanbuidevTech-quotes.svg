@@ -2,10 +2,32 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
+        /* Keyframe cho hiệu ứng nhấp nháy của ngôi sao */
         @keyframes sparkle {
           0%, 100% { opacity: 0.2; }
-          50% { opacity: 1; }
+          50% { opacity: 1; transform: scale(1.2); }
         }
+
+        /* Keyframe cho hiệu ứng di chuyển của ngôi sao */
+        @keyframes move {
+          0% { transform: translate(0, 0); }
+          100% { transform: translate(10px, -10px); }
+        }
+
+        /* Hiệu ứng gradient nền */
+        @keyframes gradientBg {
+          0% { background-position: 0% 50%; }
+          50% { background-position: 100% 50%; }
+          100% { background-position: 0% 50%; }
+        }
+
+        /* Hiệu ứng mờ dần cho chữ */
+        @keyframes fadeIn {
+          0% { opacity: 0; transform: translateY(20px); }
+          100% { opacity: 1; transform: translateY(0); }
+        }
+
+        /* Container */
         .container {
           font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
           display: flex;
@@ -15,39 +37,53 @@
           margin: 0;
           width: 100%;
           height: 150px;
-          background-color: #20232A;
+          background: linear-gradient(270deg, #ff6f61, #61dafb, #ff6347, #32cd32);
+          background-size: 600% 600%;
           border-radius: 10px;
           color: white;
           line-height: 1.6;
           position: relative;
           overflow: hidden;
+          animation: gradientBg 5s ease infinite;
         }
+
+        /* Cỡ chữ và hiệu ứng mờ dần cho các đoạn văn */
         .quotes-eng, .quotes-vi {
-          font-size: 20px;
-          color: white;
+          font-size: 22px;
           font-weight: bold;
+          animation: fadeIn 2s ease-in-out forwards;
+          opacity: 0;
         }
+
+        /* Tùy chỉnh hiệu ứng fadeIn cho từng đoạn */
+        .quotes-eng { animation-delay: 0.5s; }
+        .quotes-vi { animation-delay: 1s; }
+
         .vanbuidevTech-signature {
           font-size: 18px;
-          color: #FF6F61;
+          color: #FFD700;
+          animation: fadeIn 3s ease-in-out forwards;
+          opacity: 0;
         }
+
+        /* Hiệu ứng lấp lánh và di chuyển cho ngôi sao */
         .star {
           position: absolute;
           background-color: white;
           border-radius: 50%;
-          animation: sparkle 2s infinite ease-in-out;
+          animation: sparkle 2s infinite ease-in-out, move 3s infinite alternate ease-in-out;
         }
-        .star:nth-child(1) { top: 10%; left: 5%; width: 5px; height: 5px; background-color: #FF6F61; animation-delay: 0.5s; }
-        .star:nth-child(2) { top: 15%; left: 85%; width: 6px; height: 6px; background-color: #61DAFB; animation-delay: 1s; }
-        .star:nth-child(3) { top: 40%; left: 50%; width: 8px; height: 8px; background-color: #FFD700; animation-delay: 1.5s; }
-        .star:nth-child(4) { top: 65%; left: 20%; width: 10px; height: 10px; background-color: #FF6347; animation-delay: 2s; }
-        .star:nth-child(5) { top: 30%; left: 70%; width: 7px; height: 7px; background-color: #32CD32; animation-delay: 2.5s; }
-        .star:nth-child(6) { top: 75%; left: 90%; width: 9px; height: 9px; background-color: #FF4500; animation-delay: 3s; }
-        .star:nth-child(7) { top: 50%; left: 40%; width: 4px; height: 4px; background-color: #8A2BE2; animation-delay: 1.8s; }
-        .star:nth-child(8) { top: 60%; left: 15%; width: 12px; height: 12px; background-color: #00FA9A; animation-delay: 2.2s; }
-        .star:nth-child(9) { top: 20%; left: 35%; width: 6px; height: 6px; background-color: #6495ED; animation-delay: 2.8s; }
-        .star:nth-child(10) { top: 45%; left: 80%; width: 7px; height: 7px; background-color: #FF1493; animation-delay: 3.5s; }
-        .star:nth-child(11) { top: 85%; left: 55%; width: 10px; height: 10px; background-color: #00CED1; animation-delay: 4s; }
+        .star:nth-child(1) { top: 10%; left: 5%; width: 8px; height: 8px; background-color: #FF6F61; animation-delay: 0.5s; }
+        .star:nth-child(2) { top: 15%; left: 85%; width: 10px; height: 10px; background-color: #61DAFB; animation-delay: 1s; }
+        .star:nth-child(3) { top: 40%; left: 50%; width: 12px; height: 12px; background-color: #FFD700; animation-delay: 1.5s; }
+        .star:nth-child(4) { top: 65%; left: 20%; width: 14px; height: 14px; background-color: #FF6347; animation-delay: 2s; }
+        .star:nth-child(5) { top: 30%; left: 70%; width: 9px; height: 9px; background-color: #32CD32; animation-delay: 2.5s; }
+        .star:nth-child(6) { top: 75%; left: 90%; width: 15px; height: 15px; background-color: #FF4500; animation-delay: 3s; }
+        .star:nth-child(7) { top: 50%; left: 40%; width: 8px; height: 8px; background-color: #8A2BE2; animation-delay: 1.8s; }
+        .star:nth-child(8) { top: 60%; left: 15%; width: 16px; height: 16px; background-color: #00FA9A; animation-delay: 2.2s; }
+        .star:nth-child(9) { top: 20%; left: 35%; width: 10px; height: 10px; background-color: #6495ED; animation-delay: 2.8s; }
+        .star:nth-child(10) { top: 45%; left: 80%; width: 11px; height: 11px; background-color: #FF1493; animation-delay: 3.5s; }
+        .star:nth-child(11) { top: 85%; left: 55%; width: 14px; height: 14px; background-color: #00CED1; animation-delay: 4s; }
       </style>
 
       <div class="container">
