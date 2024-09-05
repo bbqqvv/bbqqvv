@@ -1,4 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:80%;position:relative;"><iframe src="https://giphy.com/embed/lOlTdBIRI3jxslzyvS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/APuntMedia-doraemon-la-colla-apunt-media-lOlTdBIRI3jxslzyvS">via GIPHY</a></p>
+https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdhYzJrZ20yN2c3bTgwb2QxZ2dtbmFwZWZ5dmplc3AwdTkzbW0zMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lOlTdBIRI3jxslzyvS/giphy.gif
 <div align="center">
   <a href="#" title="vanbuidevTech">
     <img width="1200" src="svg/vanbuidevTech.svgg" alt="vanbuidevTech-official" />
