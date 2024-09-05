@@ -6,6 +6,11 @@
           0%, 100% { opacity: 0.2; }
           50% { opacity: 1; }
         }
+        @keyframes fly {
+          0% { left: -20%; }
+          50% { top: 20px; }
+          100% { left: 110%; }
+        }
         .container {
           font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
           display: flex;
@@ -48,6 +53,47 @@
         .star:nth-child(9) { top: 20%; left: 35%; width: 6px; height: 6px; background-color: #6495ED; animation-delay: 2.8s; }
         .star:nth-child(10) { top: 45%; left: 80%; width: 7px; height: 7px; background-color: #FF1493; animation-delay: 3.5s; }
         .star:nth-child(11) { top: 85%; left: 55%; width: 10px; height: 10px; background-color: #00CED1; animation-delay: 4s; }
+        
+        /* Đĩa bay */
+        .ufo {
+          position: absolute;
+          top: 40px;
+          left: -20%;
+          width: 80px;
+          height: 40px;
+          background: linear-gradient(to right, #ddd, #bbb);
+          border-radius: 50%;
+          border: 3px solid #999;
+          animation: fly 8s infinite linear;
+        }
+        .ufo-light {
+          position: absolute;
+          width: 15px;
+          height: 15px;
+          background: radial-gradient(circle, #fff, #ff0);
+          border-radius: 50%;
+          bottom: -8px;
+          left: calc(50% - 7.5px);
+        }
+        /* Người ngoài hành tinh */
+        .alien {
+          position: absolute;
+          top: 8px;
+          left: 20px;
+          width: 15px;
+          height: 15px;
+          background-color: green;
+          border-radius: 50%;
+        }
+        .alien-eye {
+          position: absolute;
+          top: 5px;
+          left: 4px;
+          width: 7px;
+          height: 7px;
+          background-color: white;
+          border-radius: 50%;
+        }
       </style>
 
       <div class="container">
@@ -67,6 +113,14 @@
         <div class="star"></div>
         <div class="star"></div>
         <div class="star"></div>
+
+        <!-- Đĩa bay với người ngoài hành tinh -->
+        <div class="ufo">
+          <div class="alien">
+            <div class="alien-eye"></div>
+          </div>
+          <div class="ufo-light"></div>
+        </div>
       </div>
     </div>
   </foreignObject>
