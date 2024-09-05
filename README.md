@@ -44,7 +44,7 @@
 <br>
 <div>
   <a href="#" title="vanbuidevTech">
-    <img width="full" src="https://github-profile-trophy.vercel.app/?username=bbqqvv&no-bg=true" />
+    <img width="90%" src="https://github-profile-trophy.vercel.app/?username=bbqqvv&no-bg=true" />
   </a>
 </div>
 <div align="center">
