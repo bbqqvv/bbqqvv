@@ -1,4 +1,3 @@
-    <img width="434" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdhYzJrZ20yN2c3bTgwb2QxZ2dtbmFwZWZ5dmplc3AwdTkzbW0zMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lOlTdBIRI3jxslzyvS/giphy.gif" />
 
 <div align="center">
   <a href="#" title="vanbuidevTech">
@@ -43,6 +42,11 @@
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
+<div>
+  <a href="#" title="vanbuidevTech">
+    <img width="434" src="https://github-profile-trophy.vercel.app/?username=bbqqvv&no-bg=true" />
+  </a>
+</div>
 <div align="center">
     <a href="#" title="vanbuidevTech">
     <img width="434" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
