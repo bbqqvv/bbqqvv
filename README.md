@@ -52,6 +52,13 @@
     <img width="434" src="https://streak-stats.demolab.com?user=bbqqvv&theme=shadow-brown&locale=vi&exclude_days=Tue" />
   </a>
 </div>
+
+<div>
+   </a>
+    <a href="#" title="vanbuidevTech">
+    <img width="434" src="https://github-readme-activity-graph.vercel.app/graph?username=bbqqvv&theme=dracula" />
+  </a>
+</div>
 <br>
 <h2 align="center">♥️ Where to find me ♥️</h2>
 <br>
