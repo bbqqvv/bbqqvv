@@ -1,44 +1,87 @@
 <svg fill="none" viewBox="0 0 846 150" width="846" height="150" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-			<style>
-				.container {
-					font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
-					display: flex;
-					flex-direction: column;
-					align-items: center;
-					justify-content: center;
-					margin: 0;
-			`		width: 100%;
-					height: 150px;
-          background-color: #20232A;
-					border-radius: 10px;
-					color: white;
-          line-height: 1.6;
-				}
-        .quotes-eng {
-          font-size: 18px;
-	color: while;
-					font-weight: Bold;
-
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @keyframes sparkle {
+          0%, 100% { opacity: 0.2; }
+          50% { opacity: 1; }
         }
-        .quotes-vi {
+        .container {
+          font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          margin: 0;
+          width: 100%;
+          height: 150px;
+          background-color: #20232A;
+          border-radius: 10px;
+          color: white;
+          line-height: 1.6;
+          position: relative;
+          overflow: hidden;
+        }
+        .quotes-eng, .quotes-vi {
           font-size: 18px;
-	color: while;
-	font-weight: Bold;
-
+          color: white;
+          font-weight: bold;
         }
         .vanbuidevTech-signature {
           font-size: 16px;
-	color: red;
+          color: #FF6F61;
         }
-			</style>
+        .star {
+          position: absolute;
+          background-color: white;
+          border-radius: 50%;
+          width: 2px;
+          height: 2px;
+          animation: sparkle 2s infinite ease-in-out;
+        }
+        .star:nth-child(1) {
+          top: 20%;
+          left: 10%;
+          animation-delay: 0.5s;
+        }
+        .star:nth-child(2) {
+          top: 30%;
+          left: 80%;
+          animation-delay: 1s;
+        }
+        .star:nth-child(3) {
+          top: 60%;
+          left: 50%;
+          animation-delay: 1.5s;
+        }
+        .star:nth-child(4) {
+          top: 70%;
+          left: 20%;
+          animation-delay: 2s;
+        }
+        .star:nth-child(5) {
+          top: 40%;
+          left: 60%;
+          animation-delay: 2.5s;
+        }
+        .star:nth-child(6) {
+          top: 80%;
+          left: 90%;
+          animation-delay: 3s;
+        }
+      </style>
 
-			<div class="container">
+      <div class="container">
         <div class="quotes-eng">"REMEMBER"</div>
         <div class="quotes-vi">"SWITCH ON MOTIVATION: TƯ DUY TÍCH CỰC - DUY TRÌ ĐỘNG LỰC"</div>
         <div class="vanbuidevTech-signature">-vanbuidevTech Official-</div>
+        <div class="star"></div>
+        <div class="star"></div>
+        <div class="star"></div>
+        <div class="star"></div>
+        <div class="star"></div>
+        <div class="star"></div>
       </div>
-		</div>
-	</foreignObject>
+    </div>
+  </foreignObject>
 </svg>
