@@ -67,7 +67,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="vanbuidevTech-email" />
   </a>
 </div>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=bbqqvv&theme=shadow-brown&locale=vi&exclude_days=Tue)](https://git.io/streak-stats)
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
