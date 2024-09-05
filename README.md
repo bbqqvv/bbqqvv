@@ -48,8 +48,10 @@
   <a href="#" title="vanbuidevTech">
     <img width="434" src="https://github-readme-stats.vercel.app/api?username=bbqqvv&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
+    <a href="#" title="vanbuidevTech">
+    <img width="434" src="https://streak-stats.demolab.com?user=bbqqvv&theme=shadow-brown&locale=vi&exclude_days=Tue" />
+  </a>
 </div>
-
 <br>
 <h2 align="center">♥️ Where to find me ♥️</h2>
 <br>
@@ -67,7 +69,6 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="vanbuidevTech-email" />
   </a>
 </div>
-[![GitHub Streak](https://streak-stats.demolab.com?user=bbqqvv&theme=shadow-brown&locale=vi&exclude_days=Tue)](https://git.io/streak-stats)
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
