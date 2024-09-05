@@ -1,3 +1,43 @@
+<style>
+  /* Hiệu ứng hover cho các biểu tượng công nghệ */
+  .tech-icon {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .tech-icon:hover {
+    transform: scale(1.1);
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+  }
+
+  /* Hiệu ứng fade-in cho toàn bộ nội dung */
+  body {
+    animation: fadeIn 2s ease-in-out;
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  /* Hiệu ứng chuyển động nhẹ cho hình ảnh quote */
+  .quote-image {
+    animation: float 4s ease-in-out infinite;
+  }
+
+  @keyframes float {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+  }
+</style>
+
 <!-- Logo Section -->
 <div align="center">
   <a href="#" target="_blank">
@@ -10,22 +50,22 @@
 <br>
 <div align="center">
   <!-- Icons for Technologies -->
-  <img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=F05032" alt="Laravel" title="Laravel" height="25" />
-  <img src="https://img.shields.io/badge/Cplusplus-282C34?logo=cplusplus&logoColor=3178C6" alt="C++" title="C++" height="25" />
-  <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript" title="JavaScript" height="25" />
-  <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB" title="MongoDB" height="25" />
-  <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5" title="HTML5" height="25" />
-  <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3" title="CSS3" height="25" />
-  <img src="https://img.shields.io/badge/TailwindCSS-282C34?logo=tailwindcss&logoColor=38B2AC" alt="Tailwind" title="Tailwind" height="25" />
-  <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap" title="Bootstrap" height="25" />
-  <img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" alt="PHP" title="PHP" height="25" />
-  <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code" title="Visual Studio Code" height="25" />
-  <img src="https://img.shields.io/badge/WordPress-282C34?logo=wordpress&logoColor=21759B" alt="WordPress" title="WordPress" height="25" />
-  <img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin&logoColor=7F52FF" alt="Kotlin" title="Kotlin" height="25" />
-  <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="Git" title="Git" height="25" />
-  <img src="https://img.shields.io/badge/MicrosoftSQLServer-282C34?logo=microsoftsqlserver&logoColor=CC2927" alt="SQL Server" title="SQL Server" height="25" />
-  <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=F29111" alt="MySQL" title="MySQL" height="25" />
-  <img src="https://img.shields.io/badge/SQLite-282C34?logo=sqlite&logoColor=003B57" alt="SQLite" title="SQLite" height="25" />
+  <img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=F05032" alt="Laravel" title="Laravel" height="25" class="tech-icon" />
+  <img src="https://img.shields.io/badge/Cplusplus-282C34?logo=cplusplus&logoColor=3178C6" alt="C++" title="C++" height="25" class="tech-icon" />
+  <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript" title="JavaScript" height="25" class="tech-icon" />
+  <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB" title="MongoDB" height="25" class="tech-icon" />
+  <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5" title="HTML5" height="25" class="tech-icon" />
+  <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3" title="CSS3" height="25" class="tech-icon" />
+  <img src="https://img.shields.io/badge/TailwindCSS-282C34?logo=tailwindcss&logoColor=38B2AC" alt="Tailwind" title="Tailwind" height="25" class="tech-icon" />
+  <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap" title="Bootstrap" height="25" class="tech-icon" />
+  <img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" alt="PHP" title="PHP" height="25" class="tech-icon" />
+  <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code" title="Visual Studio Code" height="25" class="tech-icon" />
+  <img src="https://img.shields.io/badge/WordPress-282C34?logo=wordpress&logoColor=21759B" alt="WordPress" title="WordPress" height="25" class="tech-icon" />
+  <img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin&logoColor=7F52FF" alt="Kotlin" title="Kotlin" height="25" class="tech-icon" />
+  <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="Git" title="Git" height="25" class="tech-icon" />
+  <img src="https://img.shields.io/badge/MicrosoftSQLServer-282C34?logo=microsoftsqlserver&logoColor=CC2927" alt="SQL Server" title="SQL Server" height="25" class="tech-icon" />
+  <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=F29111" alt="MySQL" title="MySQL" height="25" class="tech-icon" />
+  <img src="https://img.shields.io/badge/SQLite-282C34?logo=sqlite&logoColor=003B57" alt="SQLite" title="SQLite" height="25" class="tech-icon" />
 </div>
 
 <!-- GitHub Stats Section -->
@@ -63,6 +103,6 @@
 <br>
 <div align="center">
   <a href="#" target="_blank">
-    <img src="svg/vanbuidevTech-quotes.svg" width="846" height="150" alt="vanbuidevTech-quote" />
+    <img src="svg/vanbuidevTech-quotes.svg" width="846" height="150" alt="vanbuidevTech-quote" class="quote-image" />
   </a>
 </div>
