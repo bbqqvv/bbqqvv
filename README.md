@@ -1,4 +1,5 @@
-https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdhYzJrZ20yN2c3bTgwb2QxZ2dtbmFwZWZ5dmplc3AwdTkzbW0zMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lOlTdBIRI3jxslzyvS/giphy.gif
+    <img width="434" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdhYzJrZ20yN2c3bTgwb2QxZ2dtbmFwZWZ5dmplc3AwdTkzbW0zMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lOlTdBIRI3jxslzyvS/giphy.gif" />
+
 <div align="center">
   <a href="#" title="vanbuidevTech">
     <img width="1200" src="svg/vanbuidevTech.svgg" alt="vanbuidevTech-official" />
