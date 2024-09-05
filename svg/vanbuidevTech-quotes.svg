@@ -23,58 +23,44 @@
           overflow: hidden;
         }
         .quotes-eng, .quotes-vi {
-          font-size: 18px;
+          font-size: 20px;
           color: white;
           font-weight: bold;
         }
         .vanbuidevTech-signature {
-          font-size: 16px;
+          font-size: 18px;
           color: #FF6F61;
         }
         .star {
           position: absolute;
           background-color: white;
           border-radius: 50%;
-          width: 2px;
-          height: 2px;
           animation: sparkle 2s infinite ease-in-out;
         }
-        .star:nth-child(1) {
-          top: 20%;
-          left: 10%;
-          animation-delay: 0.5s;
-        }
-        .star:nth-child(2) {
-          top: 30%;
-          left: 80%;
-          animation-delay: 1s;
-        }
-        .star:nth-child(3) {
-          top: 60%;
-          left: 50%;
-          animation-delay: 1.5s;
-        }
-        .star:nth-child(4) {
-          top: 70%;
-          left: 20%;
-          animation-delay: 2s;
-        }
-        .star:nth-child(5) {
-          top: 40%;
-          left: 60%;
-          animation-delay: 2.5s;
-        }
-        .star:nth-child(6) {
-          top: 80%;
-          left: 90%;
-          animation-delay: 3s;
-        }
+        .star:nth-child(1) { top: 10%; left: 5%; width: 5px; height: 5px; background-color: #FF6F61; animation-delay: 0.5s; }
+        .star:nth-child(2) { top: 15%; left: 85%; width: 6px; height: 6px; background-color: #61DAFB; animation-delay: 1s; }
+        .star:nth-child(3) { top: 40%; left: 50%; width: 8px; height: 8px; background-color: #FFD700; animation-delay: 1.5s; }
+        .star:nth-child(4) { top: 65%; left: 20%; width: 10px; height: 10px; background-color: #FF6347; animation-delay: 2s; }
+        .star:nth-child(5) { top: 30%; left: 70%; width: 7px; height: 7px; background-color: #32CD32; animation-delay: 2.5s; }
+        .star:nth-child(6) { top: 75%; left: 90%; width: 9px; height: 9px; background-color: #FF4500; animation-delay: 3s; }
+        .star:nth-child(7) { top: 50%; left: 40%; width: 4px; height: 4px; background-color: #8A2BE2; animation-delay: 1.8s; }
+        .star:nth-child(8) { top: 60%; left: 15%; width: 12px; height: 12px; background-color: #00FA9A; animation-delay: 2.2s; }
+        .star:nth-child(9) { top: 20%; left: 35%; width: 6px; height: 6px; background-color: #6495ED; animation-delay: 2.8s; }
+        .star:nth-child(10) { top: 45%; left: 80%; width: 7px; height: 7px; background-color: #FF1493; animation-delay: 3.5s; }
+        .star:nth-child(11) { top: 85%; left: 55%; width: 10px; height: 10px; background-color: #00CED1; animation-delay: 4s; }
       </style>
 
       <div class="container">
         <div class="quotes-eng">"REMEMBER"</div>
         <div class="quotes-vi">"SWITCH ON MOTIVATION: TƯ DUY TÍCH CỰC - DUY TRÌ ĐỘNG LỰC"</div>
         <div class="vanbuidevTech-signature">-vanbuidevTech Official-</div>
+
+        <!-- Nhiều ngôi sao hơn với kích thước và màu sắc khác nhau -->
+        <div class="star"></div>
+        <div class="star"></div>
+        <div class="star"></div>
+        <div class="star"></div>
+        <div class="star"></div>
         <div class="star"></div>
         <div class="star"></div>
         <div class="star"></div>
