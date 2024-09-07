@@ -49,7 +49,7 @@
 </div>
 <div align="center">
     <a href="#" title="vanbuidevTech">
-    <img width="434" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+    <img width="434" src="https://github-readme-stats.vercel.app/api?username=bbqqvv&show_icons=true" />
   </a>
   <a href="#" title="vanbuidevTech">
     <img width="434" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbqqvv&layout=compact" />
