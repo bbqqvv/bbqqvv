@@ -2,7 +2,7 @@
 <img align="right" width="64" src="[https://github.com/dienne.jpg](https://github.com/dienakdz/dienakdz/blob/main/dienne.jpg?raw=true)" />
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
-<h2 align="center">Hi 👋, I'm Nguyễn Minh DIện</h2>
+<h2 align="center">Hi 👋, I'm BUI QUOC VAN</h2>
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam 🇻🇳</h3>
 </p>
@@ -12,7 +12,7 @@
 > ✍ Currently, I am exploring new technologies and improving my coding skills.
 <br />
 
-> 🛠 I have experience with several programming languages and technologies including C++, Java, Python,Php and JavaScript.
+> 🛠 I have experience with several programming languages and technologies including C++, Java, Php and JavaScript.
 > <br />
 > 🛠 My toolkit also includes web development frameworks like Laravel and Wordpress, and tools for Git.
 
@@ -22,19 +22,19 @@
 ## 📫 How to reach me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nguyen-minh-dien-2492b7276/" target="_blank">
+  <a href="https://www.linkedin.com/in/van-buii-67ab31252/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
-  <a href="https://www.facebook.com/dienne.dev" alt="Facebook">
+  <a href="https://www.facebook.com/profile.php?id=100026335065644" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
   <a href="https://github.com/bbqqvv" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
-  <a href="https://www.youtube.com/channel/UCLL3gzFO9iVsw9d4HwkVH8A" alt="Youtube channel" target="_blank" >
+  <a href="https://www.youtube.com/@bbqqvv_" alt="Youtube channel" target="_blank" >
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
-  <a href="mailto:minhdien678@gmail.com" alt="Email">
+  <a href="mailto:vanbui0966467356@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
