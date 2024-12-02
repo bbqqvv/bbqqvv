@@ -45,7 +45,6 @@
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
   <img width="48" height="48" src="https://img.icons8.com/arcade/48/javascript.png" alt="javascript"/>
   <img width="48" height="48" src="https://img.icons8.com/officel/48/php-logo.png" alt="php-logo"/>
-  <img width="48" height="48" src="https://img.icons8.com/arcade/48/wordpress.png" alt="wordpress"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
