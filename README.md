@@ -46,7 +46,7 @@
   <img width="48" height="48" src="https://img.icons8.com/arcade/48/javascript.png" alt="javascript"/>
   <img width="48" height="48" src="https://img.icons8.com/officel/48/php-logo.png" alt="php-logo"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="java-logo" />
-<img width="48" height="48" src="https://img.icons8.com/ios-filled/50/000000/nextjs.png" alt="nextjs-logo" />
+<img width="48" height="48" src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" alt="nextjs-logo" />
 
 
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
