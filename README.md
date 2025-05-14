@@ -66,10 +66,5 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbqqvv&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
       <img src="https://github-readme-stats.vercel.app/api?username=bbqqvv&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
     </td>
-    <td>
-      <p align="center"> 
-        <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="dev" width="90%"/>
-      </p>
-    </td>
   </tr>
 </table>
