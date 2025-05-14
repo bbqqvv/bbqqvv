@@ -1,70 +1,62 @@
-<!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
-<img align="right" width="64" src="[https://github.com/dienne.jpg](https://github.com/dienakdz/dienakdz/blob/main/dienne.jpg?raw=true)" />
-<!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
 <h2 align="center">Hi 👋, I'm BUI QUOC VAN</h2>
-<p align="center">
-  <h3 align="center">A passionate developer from Vietnam 🇻🇳</h3>
-</p>
+<h3 align="center">A passionate developer from Vietnam 🇻🇳</h3>
 
-> ✍ I'm a Software Engineering student at the University of Information Technology and Communication Viet-Han.
-> <br />
-> ✍ Currently, I am exploring new technologies and improving my coding skills.
-<br />
+---
 
-> 🛠 I have experience with several programming languages and technologies including C++, Java, Php and JavaScript.
-> <br />
-> 🛠 My toolkit also includes web development frameworks like Laravel and Wordpress, and tools for Git.
+### ✨ About Me
 
-<br />
+- 🎓 I'm a **Software Engineering** student at **University of Information Technology and Communication Viet-Han**.
+- 🚀 Currently exploring new technologies and sharpening my coding skills.
+- 💡 Experienced with **C++**, **Java**, **PHP**, **JavaScript**.
+- 🛠 Tech stack includes **Laravel**, **WordPress**, **Git**, **SQL**, and more.
 
+---
 
-## 📫 How to reach me:
+### 📫 Contact Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/van-buii-67ab31252/" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100026335065644" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
-  <a href="https://github.com/bbqqvv" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-  <a href="https://www.youtube.com/@bbqqvv_" alt="Youtube channel" target="_blank" >
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
+  <a href="https://www.facebook.com/profile.php?id=100026335065644" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook"/>
   </a>
-  <a href="mailto:vanbui0966467356@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+  <a href="https://github.com/bbqqvv" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/>
+  </a>
+  <a href="https://www.youtube.com/@bbqqvv_" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" alt="YouTube"/>
+  </a>
+  <a href="mailto:vanbui0966467356@gmail.com">
+    <img src="https://img.icons8.com/fluent/48/000000/mailing.png" alt="Email"/>
   </a>
 </p>
 
-## Skills:
+---
+
+### 🛠️ Skills
+
 <p align="center">
-  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
-  <img width="48" height="48" src="https://img.icons8.com/arcade/48/javascript.png" alt="javascript"/>
-  <img width="48" height="48" src="https://img.icons8.com/officel/48/php-logo.png" alt="php-logo"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="java-logo" />
-<img width="48" height="48" src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" alt="nextjs-logo" />
-
-
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
-  
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/>
+  <img src="https://img.icons8.com/fluency/48/css3.png" alt="CSS3"/>
+  <img src="https://img.icons8.com/arcade/48/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/officel/48/php-logo.png" alt="PHP"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
+  <img src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" width="48" alt="Next.js"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/color/48/000000/github-2.png" alt="GitHub"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
+  <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png" alt="Visual Studio"/>
 </p>
 
-## Activities:
+---
 
-<table style="width:100%;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbqqvv&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=bbqqvv&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
-    </td>
-  </tr>
-</table>
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbqqvv&layout=compact&hide=css&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bbqqvv&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="50%" />
+</p>
